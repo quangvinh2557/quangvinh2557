@@ -11,7 +11,7 @@
     <p>💻 Passionate about <strong>Computer Science, C++ Programming, and Artificial Intelligence</strong></p>
     <p>🚀 I love solving problems and creating real-world projects</p>
     <p>📫 Contact: <a href="mailto:vuquangvinh2552007@gmail.com">vuquangvinh2552007@gmail.com</a></p>
-    <p>🌐 GitHub: <a href="https://github.com/quangvinh2557" target="_blank">https://github.com/username</a></p>
+    <p>🌐 GitHub: <a href="https://github.com/quangvinh2557" target="_blank">https://github.com/quangvinh2557</a></p>
   </div>
 </body>
 </html>
