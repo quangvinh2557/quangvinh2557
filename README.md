@@ -1,17 +1,45 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
-<body>
-  <div class="card">
-    <h1>👋 Hi, I'm Vũ Quang Vinh</h1>
-    <p>🎓 Majoring in <strong>Computer Scienece</strong>, at <strong>University of Information Technology (UIT)</strong></p>
-    <p>💻 Passionate about <strong>Computer Science, C++ Programming, and Artificial Intelligence</strong></p>
-    <p>🚀 I love solving problems and creating real-world projects</p>
-    <p>📫 Contact: <a href="mailto:vuquangvinh2552007@gmail.com">vuquangvinh2552007@gmail.com</a></p>
-    <p>🌐 GitHub: <a href="https://github.com/quangvinh2557" target="_blank">https://github.com/quangvinh2557</a></p>
-  </div>
-</body>
-</html>
+<!-- Banner động tự động thay đổi màu -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hi,%20I'm%20Vũ%20Quang%20Vinh&fontSize=50&animation=fadeIn" alt="Header" />
+</div>
+
+<!-- Hiệu ứng gõ chữ động (Typing Effect) -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2196F3&center=true&vCenter=true&width=800&lines=Majoring+in+Computer+Science+at+UIT;Passionate+about+C%2B%2B+%26+Artificial+Intelligence;Love+solving+problems+and+real-world+projects" alt="Typing SVG" />
+  </a>
+</div>
+
+<br/>
+
+## 👨‍💻 Về bản thân (About Me)
+
+🎓 Majoring in **Computer Science**, at **University of Information Technology (UIT)**
+
+💻 Passionate about **Computer Science, C++ Programming, and Artificial Intelligence**
+
+🚀 I love solving problems and creating real-world projects
+
+## 📫 Liên hệ (Contact)
+
+- 📧 **Email:** [vuquangvinh2552007@gmail.com](mailto:vuquangvinh2552007@gmail.com)
+- 🌐 **GitHub:** [quangvinh2557](https://github.com/quangvinh2557)
+
+<br/>
+
+## 📊 Thống kê GitHub (Dynamic GitHub Stats)
+
+<!-- Các thẻ thống kê này sẽ tự động cập nhật theo hoạt động thực tế của bạn trên GitHub -->
+<div align="center">
+  <a href="https://github.com/quangvinh2557">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=quangvinh2557&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Vinh's GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quangvinh2557&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  </a>
+</div>
+
+<br/>
+
+<!-- Bộ đếm số người truy cập vào profile của bạn -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=quangvinh2557&color=blue&style=flat-square&label=Profile+Views" alt="Profile views" />
+</div>
