@@ -29,14 +29,6 @@
 
 ## 📊 Thống kê GitHub (Dynamic GitHub Stats)
 
-<!-- Các thẻ thống kê này sẽ tự động cập nhật theo hoạt động thực tế của bạn trên GitHub -->
-<div align="center">
-  <a href="https://github.com/quangvinh2557">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=quangvinh2557&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Vinh's GitHub Stats" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quangvinh2557&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  </a>
-</div>
-
 <br/>
 
 <!-- Bộ đếm số người truy cập vào profile của bạn -->
