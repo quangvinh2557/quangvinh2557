@@ -24,7 +24,6 @@
 
 - 📧 **Email:** [vuquangvinh2552007@gmail.com](mailto:vuquangvinh2552007@gmail.com)
 - 🌐 **GitHub:** [quangvinh2557](https://github.com/quangvinh2557)
-
 <br/>
 
 ## 📊 Thống kê GitHub (Dynamic GitHub Stats)
